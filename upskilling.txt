@@ -1,0 +1,10 @@
+UpSkilling:
+
+
+1.Completed Career Framework Assessment and secured 72%
+
+2.Done Fundamentals of Azure-900 certification
+
+3.deployment of webapplication on azure (PAAS) is done.
+
+4.Started learning sharepoint
